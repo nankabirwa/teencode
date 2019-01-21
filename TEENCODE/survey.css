@@ -1,0 +1,29 @@
+h1{
+    font-size: 30px;
+    font-family: cursive;
+}
+body{
+    background-color: chocolate;
+    text-align: center;
+}
+button{
+    background-color: black;
+    float: none;
+    color: white;
+    padding: 15px 30px;
+    border-color: aqua;
+    border-style: solid;
+}
+#form-outer{
+    background-color: purple;
+    margin: auto;
+    border-radius: solid;
+    width: 60%;
+    max-width: 800px;
+    padding: 10px;
+    padding-top: 15px;
+
+}
+ul{
+    text-align: inherit
+}
